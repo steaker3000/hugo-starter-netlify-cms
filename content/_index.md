@@ -1,7 +1,7 @@
 ---
-title: "Hi There"
-blurb: "Welcome to your new Hugo site."
+title: Michael Stucki
+blurb: "This site is in the making. "
 section:
-    heading: "A Subsection"
-    text: "You can put even more content in here."
+  heading: Contact
+  text: "Drop me an email: info@michaelstucki.net"
 ---
